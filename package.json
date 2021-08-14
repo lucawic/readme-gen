@@ -3,7 +3,9 @@
     "generateREADME": "npm explore basic-readme-generator -- npm start"
   },
   "dependencies": {
-    "inquirer": "^8.1.2"
+    "inquirer": "^8.1.2",
+    "node": "^16.6.1",
+    "node.js": "0.0.1-security"
   },
   "name": "readme-gen",
   "description": "[How to create a Professional README](./readme-guide.md)",
