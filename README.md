@@ -1,25 +1,27 @@
-# undefined
-
+# README_GEN
+![license](https://img.shields.io/badge/license-APACHE2.0-blue.svg)
 ## Description
-undefined
+ This is a project meant to give creators a method to easily generate a formatted readme for a variety of projects, with a
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-
+* [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-undefined
+install npm inquirer
 ## Usage
-This project is used in in the terminal by using node commands
-
+creating readme's
+## License
+    
+    This Project is licensed under the APACHE2.0 license
 ## Contributing 
 undefined
 ##  Test
 In order to test please run
-Test instructions
+node index.js
 ## Questions
 If you have any questions on this project please contact me at
-undefined
+lucaswick@email.arizona.edu
 or feel free to check out my [github](https://github.com/undefined)
