@@ -4,5 +4,22 @@
   },
   "dependencies": {
     "inquirer": "^8.1.2"
-  }
+  },
+  "name": "readme-gen",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucawic/readme-gen.git"
+  },
+  "keywords": [
+    "\"readmegenerator"
+  ],
+  "author": "lucawic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucawic/readme-gen/issues"
+  },
+  "homepage": "https://github.com/lucawic/readme-gen#readme"
 }
