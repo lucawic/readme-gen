@@ -24,13 +24,26 @@ const questions = [{
 }, {
     type: 'input',
     message: 'Please provide installation instructions here.',
-    name: 'Install'
+    name: 'Installation'
 }, {
     type: 'list',
+    name: 'license',
     message: 'Please select which license you would like to use.',
     choices: [
-        
+        'APACHE2.0',
+        'BSD3',
+        'GPL3.0',
+        'MIT',
+        'None',
     ],
+}, {
+    type: 'input',
+    message: 'Provide test instructions',
+    name: 'tests'
+},{
+    type: 'input',
+    message: 'how is this project used?',
+    name: 'usage'
 }
 ]
 
